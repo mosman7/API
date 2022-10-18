@@ -18,3 +18,5 @@ By using Python and REST APIs, you can retrieve, parse, update, and manipulate t
 Basically, there is a system we want to communicate with, we cant access the internals of the system, we can only talk to the API layer - end point
 End point - point of contact - url
 
+HyperV - Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All
+
