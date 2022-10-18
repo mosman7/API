@@ -1,2 +1,2 @@
-import postcode_checker
+import postcode:
 print(get_value(postcode))
